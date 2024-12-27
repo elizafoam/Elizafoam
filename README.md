@@ -2,17 +2,22 @@
 
 <p align="center">~</p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elizafoam&style=for-the-badge"/>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=elizafoam&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/elizafoam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:elizafoam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-# 💫 About Me 
+<h1 align="center">💡 About Me</h1>
+<p align="center">
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px" height="15px" /> Aloha! My name is Elizabeth Johnson (Liz) <br>
-🔭 I am a student at Rutgers University-New Brunswick, majoring in Computer Science <br>
-🌟 I am interested in Software Engineering & Design <br>
-🌱 I’m currently mastering full-stack web development & system design <br>
-🌝 Fun fact: My profile picture was made by my bestfriend Blue <br>
+  🔭 I am a student at Rutgers University-New Brunswick, majoring in Computer Science <br>
+  🌟 I am interested in Software Engineering & Design <br>
+  🌱 I’m currently mastering full-stack web development & system design <br>
+  🌝 Fun fact: I love playing Sudoku <br>
+</p>
 
-# 🌸 Languages & Tools
+<h1 align="center">🌸 Languages & Tools</h1>
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -45,7 +50,13 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-# 📫 Contact
-<a href="mailto:elizafoam@gmail.com">![elizafoam@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/elizafoam/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<h1 align="center">📋 GitHub Statistics</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizafoam&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
 
-Made with ❤️ and Markdown
+<p align="center">~</p>
+
+<p align="center">
+  Made with ❤️ and Markdown
+</p>
